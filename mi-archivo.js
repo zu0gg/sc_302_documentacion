@@ -1,2 +1,3 @@
 console.log('hola mundo')
-Esta es una practica de git y github
+Esta es una prueba
+console.log('Adrian Rojas Vega')
